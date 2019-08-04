@@ -5,7 +5,7 @@
 1. Using Oura Ring API, access my general tracking data.
 2. Using text file download, access my cycle tracking data.
 3. Building out React/Frontend, enter and store other data points (type of food, if alchohol was consumed, mood/energy, if experimenting wither certain supplements..) to access.
-4. Building out the Backend via Rails may be a good route to start to combine these into one place, but the primary goal of all this data is to run it through a pi and 'data science' it with Python (jupyter, pandas, numpy, etc) to get a more comprehensive cause-and-effect from life habits - more actionable insights than the trends each set of data offers on it's own.
+4. Building out the Backend via Rails (or good chance to explore Node more?) may be a good route to start to combine these into one place, but the primary goal of all this data is to run it through a pi and 'data science' it with Python (jupyter, pandas, numpy, etc) to get a more comprehensive cause-and-effect from life habits - more actionable insights than the trends each set of data offers on it's own.
 
 ## User Stories (For React): ##
 
@@ -21,7 +21,7 @@
     * Carbs? (nothing crazy, about right, they were my main macro)
     * Protien? (nothing crazy, about right, they were my main macro)
     * Fat? (nothing crazy, about right, they were my main macro)
-    * Dexa results (only about once a quarter metric tho - another database? Can I pull this right from the dexa site?)
+    * Dexa results (only about once a quarter metric tho - another database/table? Can I pull this right from the dexa site?)
     * Red Light Therapy (y/n)
         * Dose/how long and how close
     * Sauna (y/n)
